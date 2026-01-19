@@ -33,3 +33,20 @@ Java
 -MySQL
 
 -Postman
+
+
+
+4. Order Management REST API
+`02-order-management-rest-api
+
+**Description:**
+A Spring Boot REST API that performs CRUD operations for order management.
+
+**Key Concepts Used:**
+- Spring Boot
+- RESTful APIs
+- CRUD Operations
+- JPA & Hibernate
+- Layered Architecture (Controller, Service, Repository)
+- Exception Handling
+
