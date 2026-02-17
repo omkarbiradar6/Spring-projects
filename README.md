@@ -69,3 +69,8 @@ This project demonstrates **Constructor Injection** in Spring Core by implementi
 ## Purpose
 This project is created to understand **why constructor injection is preferred over field/setter injection** in real-world Spring applications.
 ====================================================================================================================================================================================================================================
+
+
+09 .#@Value importance
+======================
+@Value is used to inject external configuration values into Spring beans. It helps separate configuration from code and allows flexible environment-based configuration.
